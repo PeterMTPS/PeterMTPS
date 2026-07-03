@@ -116,13 +116,15 @@ Projeto educacional de emulador/launcher de Game Boy Advance feito em Python.
 
 ---
 
-## Estatísticas do GitHub
+## GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PeterMTPS&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=PeterMTPS&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Estatísticas do GitHub" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterMTPS&layout=compact&theme=tokyonight&hide_border=true" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterMTPS&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Linguagens mais usadas" />
 
 </div>
 
