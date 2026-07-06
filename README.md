@@ -139,11 +139,3 @@ Projeto educacional de emulador/launcher de Game Boy Advance feito em Python.
 </a>
 
 </div>
-
----
-
-<div align="center">
-
-**Evoluindo um projeto por vez.**
-
-</div>
