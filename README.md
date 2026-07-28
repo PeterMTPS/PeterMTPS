@@ -41,70 +41,6 @@ Gosto de aprender criando sistemas reais, explorando tecnologias e melhorando me
 
 ---
 
-## Projetos em destaque
-
-### CRM Clientes
-
-Sistema web de CRM para gerenciamento de clientes, vendedores e anotações de vendas.
-
-**Tecnologias:** Python, Flask, SQLite, SQLAlchemy, Flask-Login
-
-* Cadastro e login de vendedores
-* Cada vendedor visualiza apenas seus próprios clientes
-* Cadastro, edição e exclusão de clientes
-* Sistema de anotações por cliente
-
-[Ver repositório](https://github.com/PeterMTPS/crm-clientes)
-
----
-
-### EzReport
-
-Aplicativo desktop para geração de relatórios PDF profissionais com interface gráfica.
-
-**Tecnologias:** Python, CustomTkinter, ReportLab
-
-* Interface moderna
-* Geração de PDFs
-* Formulário dinâmico
-* Opção de logotipo
-* Salvamento e carregamento em JSON
-
-[Ver repositório](https://github.com/PeterMTPS/EzReport)
-
----
-
-### Debate Anônimo
-
-Fórum web para discussões por apelido, com salas temáticas, denúncias, moderação e banco de dados.
-
-**Tecnologias:** React, Vite, Node.js, Express, PostgreSQL
-
-* Frontend com React
-* Backend com Express
-* Banco PostgreSQL
-* Sistema de moderação
-* Histórico de exclusões
-
-[Ver repositório](https://github.com/PeterMTPS/site-politica)
-
----
-
-### GBA Emulator Python
-
-Projeto educacional de emulador/launcher de Game Boy Advance feito em Python.
-
-**Tecnologias:** Python, Tkinter, pygame, SDL2, NumPy
-
-* Launcher gráfico
-* Gerenciamento de ROMs
-* Estrutura de CPU, memória, PPU, DMA e timers
-* Integração com mGBA
-
-[Ver repositório](https://github.com/PeterMTPS/gba-emulator-python)
-
----
-
 ## Atualmente estudando
 
 * APIs REST
@@ -113,20 +49,6 @@ Projeto educacional de emulador/launcher de Game Boy Advance feito em Python.
 * Testes automatizados
 * Deploy de aplicações web
 * Boas práticas com Git e GitHub
-
----
-
-## GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PeterMTPS&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Estatísticas do GitHub" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterMTPS&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Linguagens mais usadas" />
-
-</div>
 
 ---
 
