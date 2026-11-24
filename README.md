@@ -31,6 +31,7 @@ Distro baseada no **Debian 13** com visual de Linux dos anos 90: gerenciador de 
 PWA instalável que importa planilhas Excel e monitora o vencimento de Certificados de Aprovação. Funciona offline com IndexedDB, envia notificações e organiza tarefas e lembretes por certificado.
 
 `JavaScript` `PWA` `Service Worker` `IndexedDB` `Notifications API`
+
 [**Abrir o app →**](https://petermtps.github.io/ca-alerta/)
 
 </td>
