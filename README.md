@@ -13,13 +13,55 @@ Desenvolvo principalmente **backend com Python e Node.js** e aplicações web co
 
 ### 🚀 Projetos em destaque
 
-| Projeto | O que é | Stack |
-| :-- | :-- | :-- |
-| **[MarsOS](https://github.com/PeterMTPS/MarsOS)** | Distribuição Linux retrô baseada no Debian 13, com FVWM, relógio marciano, instalador e ISO bilíngue (EN/PT) que roda em BIOS e UEFI. Build automatizado com GitHub Actions. · [site](https://petermtps.github.io/MarsOS/) | Python · Shell · live-build |
-| **[ca-alerta](https://github.com/PeterMTPS/ca-alerta)** | Aplicativo para controle e alertas de vencimento de Certificados de Aprovação (CA) de EPIs. | JavaScript · HTML |
-| **[crm-clientes](https://github.com/PeterMTPS/crm-clientes)** | CRM web com autenticação de vendedores, isolamento de dados por usuário, CRUD de clientes e histórico de anotações. | Python · Flask · SQLAlchemy · SQLite |
-| **[conversor-moedas](https://github.com/PeterMTPS/conversor-moedas)** | App desktop que converte moedas em tempo real consumindo a API da ExchangeRate. | Python · Tkinter · REST API |
-| **[FrutigerTube](https://github.com/PeterMTPS/FrutigerTube)** | Extensão de navegador que aplica um tema Frutiger Aero ao YouTube. | CSS · Browser Extension |
+#### [MarsOS](https://github.com/PeterMTPS/MarsOS) — distribuição Linux própria
+
+<a href="https://github.com/PeterMTPS/MarsOS"><img src="https://raw.githubusercontent.com/PeterMTPS/MarsOS/main/docs/img/en/desktop.png" alt="Área de trabalho do MarsOS" width="100%"></a>
+
+Distro baseada no **Debian 13** com visual de Linux dos anos 90: gerenciador de janelas FVWM, aplicativos próprios em Python, instalador em disco e uma única ISO bilíngue (EN/PT) que dá boot em BIOS e UEFI. A ISO é gerada automaticamente por **pipeline no GitHub Actions** e já está na terceira versão publicada.
+
+`Debian` `live-build` `Python` `Shell` `GitHub Actions` &nbsp;·&nbsp; [**Baixar ISO**](https://github.com/PeterMTPS/MarsOS/releases/latest) · [**Site do projeto**](https://petermtps.github.io/MarsOS/)
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [CA Alerta](https://github.com/PeterMTPS/ca-alerta)
+PWA instalável que importa planilhas Excel e monitora o vencimento de Certificados de Aprovação. Funciona offline com IndexedDB, envia notificações e organiza tarefas e lembretes por certificado.
+
+`JavaScript` `PWA` `Service Worker` `IndexedDB` `Notifications API`
+[**Abrir o app →**](https://petermtps.github.io/ca-alerta/)
+
+</td>
+<td width="50%" valign="top">
+
+#### [Debate Anônimo](https://github.com/PeterMTPS/site-politica)
+Fórum full-stack de discussões por apelido, com salas temáticas, reações, denúncias, painel de moderação e histórico de exclusões. API REST própria em Express sobre PostgreSQL.
+
+`React` `Vite` `Node.js` `Express` `PostgreSQL` `Render`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [EscargotAI](https://github.com/PeterMTPS/EscargotAI)
+Bot de IA para o Escargot (servidor que mantém o MSN Messenger vivo). Servidor Node.js ligado à API do Gemini, script para o Messenger Plus!, instalador para Windows e testes automatizados.
+
+`Node.js` `Gemini API` `Inno Setup` `PowerShell` `node:test`
+
+</td>
+<td width="50%" valign="top">
+
+#### [CRM Clientes](https://github.com/PeterMTPS/crm-clientes)
+CRM web com login de vendedores, isolamento de dados por usuário, cadastro de clientes e histórico de anotações por cliente.
+
+`Python` `Flask` `SQLAlchemy` `Flask-Login` `SQLite`
+
+</td>
+</tr>
+</table>
 
 ---
 
